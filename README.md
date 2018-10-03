@@ -1,5 +1,5 @@
 Vivek Ghanchi Portfolio
-=======================
+==================================
 
 ##  Technology Stack
 
